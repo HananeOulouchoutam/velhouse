@@ -79,7 +79,7 @@ export const testimonialsData = [
     image: profile_img_1,
     alt: "Portrait of Youssef El Amrani",
     rating: 5,
-    text: "From the very beginning, the team understood exactly what I needed. They guided me through every step and helped me secure a property that perfectly matches my lifestyle and expectations.",
+    text: "They understood my needs and helped me find the perfect property.",
   },
   {
     name: "Salma Benjelloun",
@@ -87,7 +87,7 @@ export const testimonialsData = [
     image: profile_img_2,
     alt: "Portrait of Salma Benjelloun",
     rating: 4,
-    text: "A seamless and highly professional experience from start to finish. Their deep knowledge of the Moroccan real estate market made the entire process smooth and stress-free.",
+    text: "Professional service and great knowledge of the Moroccan market.",
   },
   {
     name: "Omar Alaoui",
@@ -95,6 +95,6 @@ export const testimonialsData = [
     image: profile_img_3,
     alt: "Portrait of Omar Alaoui",
     rating: 5,
-    text: "Outstanding service and exceptional market insight. They didn’t just help me find a property—they helped me make a confident and valuable long-term investment.",
+    text: "Excellent guidance that helped me make a smart investment.",
   },
 ];
